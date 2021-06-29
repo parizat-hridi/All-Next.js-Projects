@@ -1,5 +1,48 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## About Next JS
+![Getting-Started-with-NextJS](https://user-images.githubusercontent.com/43074604/123855177-637a6780-d941-11eb-9e33-eb93fdc7433f.jpg)
+
+Next.js is a framework based on JavaScript for building React web applications and superfast static websites.
+
+In fact, thanks to Automatic Static Optimization, terms of “static” and dynamic” merge into one.
+
+It’s a cool feature because thanks to it, you can build a hybrid application containing both server-rendered and statically generated pages.
+
+It brings Next JS users three main advantages:
+
+* Rich user experience (easier and faster).
+* Outstanding performance (also easier and faster).
+* Rapid feature development.
+
+These things convinced not only the biggest and most popular organizations like Netflix, Uber, or Twitch but also smaller companies that are yet to conquer the digital world. In fact, almost every company can benefit from Next JS; however, sometimes it might be overkill.
+
+This JavaScript-based framework is also considered as one of the fastest-growing React frameworks, which is perfect to work with any static site.
+
+
+## WHEN TO USE NEXT JS?
+The decision to use any technology should be based on your business goals. In the case of Next JS, we strongly recommend it if you want to:
+
+* Increase your conversion and sales
+* Boost your marketing channels
+* Outperform your competition online
+* Serve clients with much better user experience
+* Cut the maintenance costs
+* Scale your business easier
+
+Achieving these goals with Next JS is possible thanks to the benefits it comes with. You will learn more about them in the next section, so keep reading!
+
+
+## BENEFITS OF USING NEXT JS
+Depending on your role in the company, you will be interested in different Next JS benefits which we can divide into three main categories:
+
+* Benefits for business
+* Benefits for marketing
+* Benefits for development
+
+Let’s take a look at them separately.
+
+
 ## Getting Started
 
 First, run the development server:
